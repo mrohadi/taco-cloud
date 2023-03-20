@@ -10,4 +10,9 @@ class TacoCloudApplicationTests {
 	void contextLoads() {
 	}
 
+    @Test
+    void testing() {
+
+    }
+
 }
